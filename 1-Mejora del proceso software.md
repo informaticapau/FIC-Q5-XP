@@ -10,8 +10,8 @@ Para saber si se puede mejorar un proceso _software_ es necesario tener en cuent
 Los anteriores aspectos deben poder medirse para su cuantificación y comparación:
 
 - Esfuerzo: `unidad de tiempo * hombre`.
-- Tiempo: `Unidad de tiempo`.
-- Coste: `Unidad monetaria`.
+- Tiempo: `unidad de tiempo`.
+- Coste: `unidad monetaria`.
 
 ### Estimación de la calidad
 
